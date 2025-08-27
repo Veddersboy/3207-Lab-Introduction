@@ -1,8 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include "random.c"
 
-
+char randchar();
 
 int main()
 {
@@ -18,4 +19,3 @@ int main()
 
 	return(0);
 }
-
