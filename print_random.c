@@ -3,8 +3,6 @@
 #include <time.h>
 #include "random.c"
 
-char randchar();
-
 int main()
 {
 	int a;
